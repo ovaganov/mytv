@@ -13,18 +13,18 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="volga" tvg-logo="https://iptvx.one/picons/volga.png" group-title="Общественные" ,Волга
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
-
+#EXTINF:-1 tvg-id="muromtv" tvg-logo="https://iptvx.one/picons/muromtv.png" group-title="Общественные" ,Муром ТВ
+http://62.76.73.38/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="gubernia-33" tvg-logo="https://iptvx.one/picons/gubernia-33.png" group-title="Общественные" ,Губерния 33
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 
-#EXTINF:-1 tvg-id="muromtv" tvg-logo="https://iptvx.one/picons/muromtv.png" group-title="Общественные" ,Муром ТВ
-http://62.76.73.38/hls/stream.m3u8
-
 #EXTINF:-1 tvg-id="nn-24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="Общественные" ,Нижний Новгород 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="volga" tvg-logo="https://iptvx.one/picons/volga.png" group-title="Общественные" ,Волга
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_VOLGA/variant.m3u8
+
 
 
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общественные",ОТР
@@ -87,9 +87,6 @@ http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8
 
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Информационные" ,Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Информационные",Первый информационный
-https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="pro-business" tvg-logo="https://iptvx.one/picons/pro-business.png" group-title="Информационные",Про бизнес
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
