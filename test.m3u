@@ -8,6 +8,9 @@
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/comedy-central-pl.png" ,Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
+#EXTINF:-1 ,Fox Channel
+http://38.59.135.250:8001/play/a08v/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" ,TV1000 Русское кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
