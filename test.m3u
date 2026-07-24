@@ -17,7 +17,7 @@ http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 ,HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,FX Channel
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/05/fx.png" ,FX Channel
 http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://usanetwork.asset.viewlift.com/images/brand/2025/06/23/Logo_USA-1750687019613.png" ,USA Network
