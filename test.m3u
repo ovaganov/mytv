@@ -8,9 +8,23 @@
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/comedy-central-pl.png" ,Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
-#EXTINF:-1 ,Fox Channel
-http://38.59.135.250:8001/play/a08v/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/FXX_Logo.svg" ,FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/discovery-channel.png" ,Discovery (US)
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+
+#EXTINF:-1 ,HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,FX Channel
+http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://usanetwork.asset.viewlift.com/images/brand/2025/06/23/Logo_USA-1750687019613.png" ,USA Network
+http://40.160.24.55/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://usanetwork.asset.viewlift.com/images/brand/2025/06/23/Logo_USA-1750687019613.png" ,USA Network West
+http://40.160.24.55/USA_NETWORK_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" ,TV1000 Русское кино
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
