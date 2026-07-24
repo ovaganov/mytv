@@ -8,7 +8,7 @@
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/comedy-central-pl.png" ,Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictional-tv-networks-and-logos/images/c/c7/FXX_Lavender.png" ,FXX
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2020/05/fxx.png" ,FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/discovery-channel.png" ,Discovery (US)
