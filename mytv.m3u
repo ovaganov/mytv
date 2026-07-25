@@ -174,7 +174,8 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="Кино и сериалы" ,Еврокино
-http://176.118.197.101/Evrokino/index.m3u8
+#http://176.118.197.101/Evrokino/index.m3u8
+http://stream.mcquack.net/385/index.m3u8
 
 #EXTINF:-1 tvg-id="lubimoe-kino" tvg-logo="https://iptvx.one/picons/lubimoe-kino.png" group-title="Кино и сериалы" ,Любимое Кино
 http://46.32.176.50/lubimoekino/index.m3u8
