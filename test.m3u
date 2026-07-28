@@ -6,13 +6,13 @@
 #EXTINF:-1 tvg-id="vremia-n" tvg-logo="https://iptvx.one/picons/vremia-n.png" ,Волга 24
 https://river-3-3110.rtbcdn.ru/stream/genetta-305.m9.rutube.ru/Y8TYUcRsU0JyJE1uJqrOSA/1785849790/e30732c0045af997cb7312822534522f/720p_stream.m3u8
 
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" ,Viasat Explore
+#EXTINF:-1 tvg-logo="https://viasatexplore.eu/wp-content/themes/viasat-world/logos/viasat-explore.png" ,Viasat Explore
 http://185.102.171.218/ViasatExplorer/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" ,Viasat History
+#EXTINF:-1 tvg-logo="https://viasathistory.eu/wp-content/themes/viasat-world/logos/viasat-history.png" ,Viasat History
 http://185.102.171.218/ViasatHistory/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" ,Viasat Nature
+#EXTINF:-1 tvg-logo="https://viasatnature.eu/wp-content/uploads/2026/04/cropped-viasat-nature.png" ,Viasat Nature
 http://185.102.171.218/ViasatNature/index.m3u8
 
 
