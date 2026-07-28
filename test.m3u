@@ -3,42 +3,42 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0
 
 
-#EXTINF:-1 ,Волга 24
+#EXTINF:-1 tvg-id="vremia-n" tvg-logo="https://iptvx.one/picons/vremia-n.png" ,Волга 24
 https://river-3-3110.rtbcdn.ru/stream/genetta-305.m9.rutube.ru/Y8TYUcRsU0JyJE1uJqrOSA/1785849790/e30732c0045af997cb7312822534522f/720p_stream.m3u8
 
-#EXTINF:-1 ,Viasat Explorer
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" ,Viasat Explore
 http://185.102.171.218/ViasatExplorer/index.m3u8
 
-#EXTINF:-1 ,Viasat History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" ,Viasat History
 http://185.102.171.218/ViasatHistory/index.m3u8
 
-#EXTINF:-1 ,Viasat Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" ,Viasat Nature
 http://185.102.171.218/ViasatNature/index.m3u8
 
 
-#EXTINF:-1 ,viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" ,viju Explore
 http://stream.mcquack.net/239/index.m3u8
 
-#EXTINF:-1 ,viju History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" ,viju History
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 
-#EXTINF:-1 ,viju+ Planet
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="https://iptvx.one/picons/viasat-nature-history-hd.png" ,viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
 
 
-#EXTINF:-1 ,viju TV1000
+#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" ,viju TV1000
 http://stream.mcquack.net/110/index.m3u8
 
-#EXTINF:-1 ,viju TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" ,viju TV1000 Action
 http://stream.mcquack.net/100/index.m3u8
 
-#EXTINF:-1 ,viju TV1000 Русское
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" ,viju TV1000 Русское
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
 
-#EXTINF:-1 ,viju+ Megahit
+#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" ,viju+ Megahit
 http://stream.mcquack.net/200/index.m3u8
 
-#EXTINF:-1 ,viju+ Premiere
+#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://iptvx.one/picons/vip-premiere.png" ,viju+ Premiere
 http://stream.mcquack.net/202/index.m3u8
 
 
